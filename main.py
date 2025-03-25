@@ -1,7 +1,7 @@
 import speech_recognition as sr
 import webbrowser
 import pyttsx3
-import Jarvis.musicLibrary as musicLibrary
+import musicLibrary
 import requests
 
 
