@@ -3,7 +3,8 @@ from openai import OpenAI
 client=OpenAI(
 
     # needs to buy this api for further working and same as news api
-    api_key="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",
+    api_key=""
+    ,
 )
 
 completion = client.chat.completions.create(
